@@ -43,7 +43,8 @@ Aplikasi ini dibuat dengan tujuan utama:
 5.  **Masuk ke Folder projek:**
     ```bash
     npx expo start
-6. **Buka apliaksi Expo Go di HP kamu, lalu scan QR code yang muncul di termianl/browser:**
-   
+6. **Buka apliaksi Expo Go di HP kamu, lalu scan QR code yang muncul di termianl/browser**
+
+7. **Hasil & tampilan aplikasi:**
 ![image](https://github.com/user-attachments/assets/6c9c545d-4ba6-4830-bba7-259773a2e6ef)
 
