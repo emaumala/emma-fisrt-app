@@ -1,7 +1,19 @@
-Hallo Selamat Datang di Apliaksi Pertmaku👋
-Apklikasi nya aku kasih nama Self-Care Reminder
+## 🧠 Self-Care Reminder
 
-NIM : 232355101005
+**S.C.R** (Self-Care Reminder) adalah aplikasi sederhana yang dibuat untuk membantu pengguna menjaga kesehatan mental dan fisik melalui rutinitas perawatan diri. Aplikasi ini mengingatkan pengguna untuk melakukan aktivitas self-care harian seperti istirahat, minum air, meditasi, dan lainnya.
+
+---
+
+### 🚀 Cara Menjalankan Aplikasi
+
+1. Pastikan sudah install:
+   - Node.js
+   - npm
+   - Expo CLI
+
+2. Clone repository ini:
+   ```bash
+   git clone https://github.com/emau***a/emma-first-app.git
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
