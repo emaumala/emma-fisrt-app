@@ -61,6 +61,10 @@ Aplikasi ini dibuat dengan tujuan utama:
 ![image](https://github.com/user-attachments/assets/834afebf-f820-4381-b34d-fa3de5bad641)
 
 
+![image](https://github.com/user-attachments/assets/cdb15cee-ae5e-4277-a831-b6653acdaf27)
+
+
+
 
 
 
