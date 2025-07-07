@@ -1,64 +1,36 @@
-## 🧠 Self-Care Reminder
+# 🧠 Self-Care Reminder
 
-**S.C.R** (Self-Care Reminder) adalah aplikasi sederhana yang dibuat untuk membantu pengguna menjaga kesehatan mental dan fisik melalui rutinitas perawatan diri. Aplikasi ini mengingatkan pengguna untuk melakukan aktivitas self-care harian seperti istirahat, minum air, meditasi, dan lainnya.
+**Nama:** Ema Umala  
+**NIM:** 232355201015  
 
 ---
 
-### 🚀 Cara Menjalankan Aplikasi
+## 📌 Pengertian Self-Care Reminder
 
-1. Pastikan sudah install:
-   - Node.js
-   - npm
-   - Expo CLI
+Self-Care Reminder adalah aplikasi sederhana berbasis mobile yang dibuat menggunakan React Native dan Expo. Aplikasi ini dirancang untuk membantu pengguna agar lebih peduli terhadap diri sendiri, baik secara fisik maupun mental, dengan cara mengingatkan kegiatan perawatan diri yang penting setiap harinya.
 
-2. Clone repository ini:
+---
+
+## 🎯 Tujuan & Manfaat Aplikasi
+
+Aplikasi ini dibuat dengan tujuan utama:
+- Meningkatkan kesadaran pentingnya merawat diri sendiri secara rutin.
+- Membantu pengguna mencatat dan menyelesaikan kegiatan self-care harian.
+- Memberikan notifikasi pengingat secara teratur agar tidak melewatkan aktivitas penting.
+- Mendorong gaya hidup yang lebih sehat dan seimbang, terutama bagi yang sibuk.
+
+---
+
+## 🚀 Cara Menjalankan Aplikasi
+
+1. **Persiapkan dulu:**
+   - Sudah install **Node.js**
+   - Sudah install **npm** (ikut install dari Node.js)
+   - Install **Expo CLI** dengan perintah:
+     ```bash
+     npm install -g expo-cli
+     ```
+
+2. **Clone repository ini:**
    ```bash
    git clone https://github.com/emau***a/emma-first-app.git
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
