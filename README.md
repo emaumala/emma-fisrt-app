@@ -58,5 +58,9 @@ Aplikasi ini dibuat dengan tujuan utama:
 ![image](https://github.com/user-attachments/assets/7a4151bc-c664-4471-9d90-54ffb90ac17a)
 
 
+![image](https://github.com/user-attachments/assets/834afebf-f820-4381-b34d-fa3de5bad641)
+
+
+
 
 
