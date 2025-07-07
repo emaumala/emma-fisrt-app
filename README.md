@@ -48,20 +48,28 @@ Aplikasi ini dibuat dengan tujuan utama:
 7. **Hasil & tampilan aplikasi:**
 ![image](https://github.com/user-attachments/assets/6c9c545d-4ba6-4830-bba7-259773a2e6ef)
 
-
+**🎨 Desain UI Estetik dan Sederhana**
 ![image](https://github.com/user-attachments/assets/de3181aa-f0fc-409a-946e-2fbb6a8f92b6)
 
 
+**📝 Checklist Self-Care Harian**
 ![image](https://github.com/user-attachments/assets/9f449f05-bffb-4d14-8889-e77ec261c5ae)
 
 
+**📱 Responsif di Semua Perangkat**
 ![image](https://github.com/user-attachments/assets/7a4151bc-c664-4471-9d90-54ffb90ac17a)
 
 
+
+**✨ Dukungan Multiplatform (Web & Mobile)**
 ![image](https://github.com/user-attachments/assets/834afebf-f820-4381-b34d-fa3de5bad641)
 
 
+
+**📊 Pelacakan Progress Harian**
 ![image](https://github.com/user-attachments/assets/cdb15cee-ae5e-4277-a831-b6653acdaf27)
+
+**Terima kasih sudah menggunakan aplikasi Self-Care Reminder 💖**
 
 
 
