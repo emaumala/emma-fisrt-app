@@ -48,3 +48,7 @@ Aplikasi ini dibuat dengan tujuan utama:
 7. **Hasil & tampilan aplikasi:**
 ![image](https://github.com/user-attachments/assets/6c9c545d-4ba6-4830-bba7-259773a2e6ef)
 
+
+![image](https://github.com/user-attachments/assets/de3181aa-f0fc-409a-946e-2fbb6a8f92b6)
+
+
