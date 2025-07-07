@@ -1,5 +1,7 @@
 Hallo Selamat Datang di Apliaksi Pertmaku👋
 Apklikasi nya aku kasih nama Self-Care Reminder
+
+NIM : 232355101005
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
