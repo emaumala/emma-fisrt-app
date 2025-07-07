@@ -45,3 +45,4 @@ Aplikasi ini dibuat dengan tujuan utama:
     npx expo start
 6. **Buka apliaksi Expo Go di HP kamu, lalu scan QR code yang muncul di termianl/browser:**
    
+IMG_7882.png
