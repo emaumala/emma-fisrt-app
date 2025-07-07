@@ -34,3 +34,14 @@ Aplikasi ini dibuat dengan tujuan utama:
 2. **Clone repository ini:**
    ```bash
    git clone https://github.com/emau***a/emma-first-app.git
+3. **Masuk ke Folder projek:**
+    ```bash
+   cd emma-first-app
+4.  **Masuk ke Folder projek:**
+    ```bash
+    npm install
+5.  **Masuk ke Folder projek:**
+    ```bash
+    npx expo start
+6. **Buka apliaksi Expo Go di HP kamu, lalu scan QR code yang muncul di termianl/browser:**
+   
